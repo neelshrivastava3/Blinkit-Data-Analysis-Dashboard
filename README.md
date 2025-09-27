@@ -1,15 +1,15 @@
-#🟡 Blinkit Sales Performance Dashboard
+#Blinkit Sales Performance Dashboard
 
 Excel Project
 ##Data Set Used
 <a href="https://github.com/neelshrivastava3/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> Blinkit Data Set
 
-##📌 1. Project Overview
+## 1. Project Overview
 
 This project focuses on analyzing Blinkit’s sales performance, customer satisfaction, and inventory distribution using Excel.
 The goal is to extract key insights and opportunities for optimization through clear KPIs and interactive visualizations.
 
-##🎯 2. Business Requirement
+## 2. Business Requirement
 
 To conduct a comprehensive analysis of Blinkit's:
 
@@ -21,11 +21,11 @@ To conduct a comprehensive analysis of Blinkit's:
 
 The analysis helps identify patterns, improve decision-making, and enhance operational efficiency using various KPIs and charts.
 
-##Dashboard 
+## Dashboard 
 <img width="1960" height="997" alt="Screenshot 2025-09-27 195343" src="https://github.com/user-attachments/assets/eab87767-54fe-4ce7-8a80-a95c86efa8a5" />
 
 
-##🧮 3. KPI Requirements
+## 3. KPI Requirements
 
 The dashboard highlights four primary KPIs:
 
@@ -34,7 +34,7 @@ Total Sales	The overall revenue generated from all items sold.
 Average Sales	The average revenue per sale.
 Number of Items	Total count of different items sold.
 Average Rating	The average customer rating for sold items.
-##📊 4. Chart Requirements & Insights
+## 4. Chart Requirements & Insights
 4.1 Total Sales by Fat Content
 
 Objective: Analyze the impact of fat content (Regular vs Low Fat) on total sales.
@@ -66,7 +66,7 @@ Objective: Evaluate how the age/type of outlet establishment influences total sa
 Chart Type: 📈 Line Chart.
 
 
-##🏁 9. Conclusion
+## 9. Conclusion
 
 This dashboard provides a comprehensive, data-driven view of Blinkit’s sales and operations. It can help businesses:
 
