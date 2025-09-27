@@ -2,7 +2,7 @@
 
 Excel Project
 ##Data Set Used
-<a href="
+<a href="https://github.com/neelshrivastava3/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> Blinkit Data Set
 
 ##📌 1. Project Overview
 
@@ -20,6 +20,10 @@ To conduct a comprehensive analysis of Blinkit's:
 🏬 Inventory distribution
 
 The analysis helps identify patterns, improve decision-making, and enhance operational efficiency using various KPIs and charts.
+
+##Dashboard 
+<img width="1960" height="997" alt="Screenshot 2025-09-27 195343" src="https://github.com/user-attachments/assets/eab87767-54fe-4ce7-8a80-a95c86efa8a5" />
+
 
 ##🧮 3. KPI Requirements
 
