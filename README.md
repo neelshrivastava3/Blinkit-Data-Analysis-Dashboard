@@ -1,7 +1,7 @@
 # Blinkit Sales Performance Dashboard
-
 Excel Project
-##Data Set Used
+
+## Data Set Used
 <a href="https://github.com/neelshrivastava3/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> Blinkit Data Set
 
 ## 1. Project Overview
